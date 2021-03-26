@@ -1,5 +1,5 @@
 $(function() {
-	// hid all errors, which will only show when called below
+	//  hid all errors, which will only show when called below
 	$("#username_error_message").hide();
 	$("#password_error_message").hide();
 	$("#retype_password_error_message").hide();
